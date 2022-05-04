@@ -1,9 +1,9 @@
 import { shallow } from "enzyme/build";
 import App from "./App";
 
-describe('app starting config', () => {
+describe('App::::', () => {
 
-  it('should first', () => {
+  it('render App component properly', () => {
     let wrapper = shallow(<App />);
     expect(wrapper).toMatchSnapshot();
   })
