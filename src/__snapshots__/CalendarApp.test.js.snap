@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CalendarApp:::: render CalendarApp main component component properly 1`] = `
+<div>
+  CalendarApp
+</div>
+`;
